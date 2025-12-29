@@ -1,0 +1,32 @@
+/* .ghost {
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5; 
+    z-index: 10;
+    background: url('../thumb.png');
+    background-size: cover;
+} */
+.product {
+    width: 47.458vw;
+    aspect-ratio: 1810 / 1810;
+    bottom: -1.1vh;
+    right: 2.0vw;
+    background: url('../images/product.png');
+    background-size: contain;
+}
+.main-title{
+    font-size: 4.6875vh;
+    font-weight: bold;
+    top: 34.6vh;
+    left: 8.5vw;
+    line-height: 1.2;
+    word-spacing: 0.1vw;
+}
+.sub-title{
+    font-size: 2.246vh;
+    font-weight: bold;
+    top: 55.6vh;
+    left: 8.5vw;
+    line-height: 1.2;
+    word-spacing: 0.1vw;
+}
