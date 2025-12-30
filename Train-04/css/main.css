@@ -1,0 +1,36 @@
+.ghost{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0,5;
+    z-index: 10;
+    background: url('../thumb.png');
+    background-size: cover;
+}
+
+.main-title {
+    left: 8.28vw;
+    top: 5.6vh;
+    font-size: 3.359vh;
+    }
+
+.product{
+    height: 58vh;
+    bottom: 339px;
+    right: 255px;
+    opacity: 0,5;
+    z-index: 10;
+    aspect-ratio: 1546 / 1546;
+    background: url('../images/Crux_EDA.png');
+    background-size: contain;
+}
+
+
+.table {
+    height: 58vh;
+    bottom: 337px;
+    right: 306px;
+    z-index: 10;
+    aspect-ratio: 1110 / 767;
+    background: url('../images/table.png');
+    background-size: contain;
+}
